@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small design tokens */
+:root {
+  --primary: #0ea5a4;
+  /* teal */
+  --muted: #6b7280;
+}
+
+body {
+  background: linear-gradient(180deg, #f8fafc, #ffffff);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
