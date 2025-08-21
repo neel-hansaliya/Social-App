@@ -81,7 +81,7 @@ Upload a profile picture
 
 Create posts with text, images, videos, and tags
 
-Like and comment on posts
+Like and comment on posts - underprocess
 
 Browse posts on the Home feed
 
